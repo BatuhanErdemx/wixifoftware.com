@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj": {}
+    "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj": {}
   },
   "projects": {
-    "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj": {
+    "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj",
+        "projectUniqueName": "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj",
         "projectName": "wixisoftware.DataAccess",
-        "projectPath": "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj",
+        "projectPath": "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.DataAccess\\wixisoftware.DataAccess.csproj",
         "packagesPath": "C:\\Users\\optim\\.nuget\\packages\\",
-        "outputPath": "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.DataAccess\\obj\\",
+        "outputPath": "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\optim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

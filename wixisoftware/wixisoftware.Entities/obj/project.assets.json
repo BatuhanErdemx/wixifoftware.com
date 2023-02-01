@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\optim\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\optim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.Entities\\wixisoftware.Entities.csproj",
+      "projectUniqueName": "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.Entities\\wixisoftware.Entities.csproj",
       "projectName": "wixisoftware.Entities",
-      "projectPath": "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.Entities\\wixisoftware.Entities.csproj",
+      "projectPath": "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.Entities\\wixisoftware.Entities.csproj",
       "packagesPath": "C:\\Users\\optim\\.nuget\\packages\\",
-      "outputPath": "F:\\wixisoftwareBlog\\wixisoftware\\wixisoftware.Entities\\obj\\",
+      "outputPath": "D:\\WixiSoftware\\wixifoftware.com\\wixisoftware\\wixisoftware.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\optim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
